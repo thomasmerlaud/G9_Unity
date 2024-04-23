@@ -18,7 +18,7 @@ Dodge Driver is a project developed as part of a school project at MMI Bordeaux.
 
 To play Dodge Driver, follow these steps:
 
-1. Clone this repository to your local machine using `git clone https://github.com/your-username/dodge-driver.git`.
+1. Clone this repository to your local machine using `git clone https://github.com/thomasmerlaud/G9_Unity`.
 2. Open the project in Unity.
 3. Build the game for your desired platform.
 
